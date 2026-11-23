@@ -1,0 +1,14 @@
+{
+  "name": "ico-host",
+  "version": "1.0.1",
+  "private": true,
+  "description": "ICO Host - Node.js hosting control panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
